@@ -1,0 +1,1 @@
+{"uuid":"6a071868-d8b1-45ee-beb9-c09c10ab3082","name":"tests.RestAPIAutomation","children":["5e033603-1a95-4de1-9299-7b32b79eef70"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1706520945074,"stop":1706520945258}],"afters":[],"start":1706520945056,"stop":1706520946187}
